@@ -1,5 +1,6 @@
 # EasyVote
 this app is vote application for using vote and question that using ionic framwork
+
 App Description:
 	This application about vote topic or event that create by users. The example is PSU contest , PSU leader, Music Vote, Poll,Question etc. 
 Specifications
